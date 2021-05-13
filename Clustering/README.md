@@ -221,6 +221,3 @@ model_k2.transform(cluster_final_data).groupBy('prediction').count().show()
 
 ________
 
-### Bingo! It was 2 hackers, in fact, our clustering algorithm created two equally sized clusters with K=2, no way that is a coincidence!
-
-# Great Job!

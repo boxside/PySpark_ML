@@ -321,6 +321,4 @@ final_results.select('Company','prediction').show()
     
     
 
-Ok! That is it! Now we know that we should assign Acocunt Managers to Cannon-Benson,Barron-Robertson,Sexton-GOlden, and Parks-Robbins!
 
-## Great Job!
